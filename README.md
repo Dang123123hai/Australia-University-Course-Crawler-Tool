@@ -13,5 +13,7 @@ A crawler which using input data is Course name and Degree. The tool will fetch 
 
 <br/>
 For example this is the data about Bachelor of Information technology course:
-![image](https://user-images.githubusercontent.com/83021485/220506309-892f880d-ed0f-494e-bcd7-34a66631dce5.png)
+<br/>
+![image](https://user-images.githubusercontent.com/83021485/220506549-482c2fdd-310d-4e69-abce-b254264f4422.png)
+
 
