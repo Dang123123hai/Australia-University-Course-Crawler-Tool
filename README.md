@@ -12,7 +12,7 @@ A crawler which using input data is Course name and Degree. The tool will fetch 
 -Recommend studies <br/>
 
 <br/>
-For example this is the data about Bachelor of Information technology course:
+With my Course Crawler Tool, you can easily access detailed information about your dream courses at Australian universities, like the Bachelor of Information Technology example shown down here.
 <br/>
 ![image](https://user-images.githubusercontent.com/83021485/220506549-482c2fdd-310d-4e69-abce-b254264f4422.png)
 
